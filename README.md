@@ -9,7 +9,7 @@
 
 ### Visualizations
 ---
-Our visualizations can be seen live [here](http://irds.usc.edu/ufo.usc.edu/teams/team_12/team_12.html)
+Our visualizations can be seen live [here](https://srinidhinandakumar.github.io/ufo-sightings/) or [here](http://irds.usc.edu/ufo.usc.edu/teams/team_12/team_12.html)
 
 **UFOs on Earth** 
 
