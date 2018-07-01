@@ -29,4 +29,4 @@ Our visualizations can be seen live [here](https://srinidhinandakumar.github.io/
 
 ### Image similarity
 ---
-Refer to our inferences [here](https://github.com/srinidhinandakumar/big-data-visualizations/blob/master/DATAVIZ.pdf)
+Refer to our inferences [here](https://github.com/srinidhinandakumar/big-data-visualizations/blob/master/docs/DATAVIZ.pdf)
